@@ -1027,7 +1027,7 @@ public class FaultyRGBMazeScript : MonoBehaviour {
                             stuck = true;
                         break;
                     case 9:
-                        if (pos[0] == tracker[0] || pos[1] == tracker[1])
+                        if (pos[0] == tracker[0])
                             stuck = true;
                         break;
                     case 10:
@@ -1043,7 +1043,7 @@ public class FaultyRGBMazeScript : MonoBehaviour {
                             stuck = true;
                         break;
                     case 13:
-                        if (Mathf.Abs(pos[1] - pos[0]) == Mathf.Abs(tracker[1] - tracker[0]) || pos[0] + pos[1] == tracker[0] + tracker[1])
+                        if (pos[1] == tracker[1])
                             stuck = true;
                         break;
                     case 14:
