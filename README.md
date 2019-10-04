@@ -1,1 +1,1 @@
-# faulty-RGB-maze
+#[ModKit Wiki](../../wiki)

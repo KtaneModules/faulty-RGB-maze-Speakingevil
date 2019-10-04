@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: faultyrgbMaze
+  title: Faulty RGB Maze
+  author: Speakingevil
+  description: 'Faulty RGB Maze ver 1.0:
+
+    Now you too can experience... wait, where am I?
+
+
+    Navigate through three offset overlapping mazes to gather each of the three keys
+    and find the exit.
+
+
+    Created by Speakingevil
+
+
+    TP support by eXish'
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 90e387361ff248947b1d7487c9c312ce, type: 3}
